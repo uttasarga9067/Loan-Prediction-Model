@@ -41,6 +41,25 @@ We can evaluate the Model on every step of our Progress
 ![ScreenShot](https://github.com/uttasarga9067/Loan-Prediction-Model/blob/main/6.PNG)
 
 
+###### 4]. Distribution of loan granted based on the types of Properties and their Area:
+
+![ScreenShot](https://github.com/uttasarga9067/Loan-Prediction-Model/blob/main/7PNG)
+
+###### 5]. Correlation Matrix of the Dataset:
+
+![ScreenShot](https://github.com/uttasarga9067/Loan-Prediction-Model/blob/main/8PNG)
+
+### Training and Testing 4 Models
+
+###### 1]. Logistic Regression:       78% Accuracy
+###### 2]. Support Vector Machines:   65% Accuracy
+###### 3]. Decision Tree Classifier:  61% Accuracy
+###### 4]. K-Nearest Neighbours:      61% Accuracy
+
+
+
+
+
 
 
 
