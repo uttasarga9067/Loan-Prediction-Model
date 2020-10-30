@@ -27,4 +27,9 @@ We can evaluate the Model on every step of our Progress
 
 ![ScreenShot](https://github.com/uttasarga9067/Loan-Prediction-Model/blob/main/3.PNG)
 
+### Exploratory Data Analysis
+###### 1] Distribution of loan granted based on the Gender:
+
+![ScreenShot](https://github.com/uttasarga9067/Loan-Prediction-Model/blob/main/4.PNG)
+
 
