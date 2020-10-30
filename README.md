@@ -25,6 +25,6 @@ We can evaluate the Model on every step of our Progress
 
 ##### I have converted the Datatype for each of the Variables and performed Exploratory Data Analysis on the Dataset.
 
-![ScreenShot](https://github.com/uttasarga9067/Loan-Prediction-Model/blob/main/2.PNG)
+![ScreenShot](https://github.com/uttasarga9067/Loan-Prediction-Model/blob/main/3.PNG)
 
 
