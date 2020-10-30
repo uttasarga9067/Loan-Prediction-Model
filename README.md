@@ -18,6 +18,13 @@ We can evaluate the Model on every step of our Progress
 ###### 4]. Seaborn
 
 ##### The Notebook was developed using PySpark in Azure Databricks, a modern tool for end-to-end Machine Learning Development.
+
+###### Below, the image belongs to the Schema of the Dataset.
+
+![ScreenShot](https://github.com/uttasarga9067/Loan-Prediction-Model/blob/main/2.PNG)
+
+##### I have converted the Datatype for each of the Variables and performed Exploratory Data Analysis on the Dataset.
+
 ![ScreenShot](https://github.com/uttasarga9067/Loan-Prediction-Model/blob/main/2.PNG)
 
 
